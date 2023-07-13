@@ -1,1 +1,2 @@
-pip freeze > requirements.txt
+pip install pipreqs
+pipreqs /intelligenzart/ars/main/ArsEuropaChannel.py
