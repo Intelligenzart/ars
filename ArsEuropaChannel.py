@@ -1,4 +1,4 @@
-pip install streamlit-player 
+ 
 import streamlit as st
 from streamlit_player import st_player
 st.title("Ars Europa Channel")
