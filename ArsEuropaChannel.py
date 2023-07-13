@@ -1,8 +1,8 @@
-
+pip install streamlit-player 
 import streamlit as st
 from streamlit_player import st_player
 st.title("Ars Europa Channel")
-pip install streamlit-player 
+
 
 tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10= st.tabs(["Home", "Immortali", "Decameron", "Simboli nell'Arte", "Sacrum", "Capolavori", "Historica", "Cultural Heritage", "Principi della Poesia", "Simboli, miti e leggende"])
 
