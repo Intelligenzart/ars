@@ -1,1 +1,1 @@
-pip install streamlit-player
+pip install streamlit_player
