@@ -1,6 +1,6 @@
  
 import streamlit as st
-import st_player
+from streamlit_player import st_player
 st.title("Ars Europa Channel")
 
 
